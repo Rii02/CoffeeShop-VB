@@ -1,8 +1,9 @@
-#CoffeeShop 
+# CoffeeShop 
 
 Ini adalah sebuah aplikasi coffeeshop berbasis VB
 
-#Tampilan Aplikasi
+# Tampilan Aplikasi
+
 Home:
 ![Screenshot 2025-05-07 164823](https://github.com/user-attachments/assets/2c505b45-8744-40ae-860c-4855e8c3242a)
 
